@@ -1,7 +1,5 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+Bakalářské studium <br>
+Lukáš Mašek (D220381) <br>
+Obor: IT-VZ, Kombinované
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
